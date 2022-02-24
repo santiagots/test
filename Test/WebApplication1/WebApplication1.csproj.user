@@ -10,6 +10,8 @@
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
     <ActiveDebugTarget>ContainerToolsProjectDebugExtension</ActiveDebugTarget>
+    <NameOfLastUsedPublishProfile>C:\Users\stambour\source\repos\test\Test\WebApplication1\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
